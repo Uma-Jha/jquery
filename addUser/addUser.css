@@ -1,0 +1,24 @@
+.container{
+	width: 970px;
+	margin: 0 auto;
+	text-align:center;
+	font-family: sans-serif;
+}
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+input{
+	margin-bottom: 10px;
+}
+label {
+    display: inline-block;
+    width:100px;
+    text-align: right;
+}
+th {
+    background-color: #ff6666;
+    color: white;
+}
+tr:nth-child(even) {background-color: #f2f2f2}

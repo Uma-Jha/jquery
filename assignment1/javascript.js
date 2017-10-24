@@ -26,6 +26,13 @@ $('#addBefore>button').click(function(){
 $('#addAfter>button').click(function(){
 	$('#addAfter>p').after("Newly added after");
 });
+$('#hover>button').hover(function(){
+	$('#hover>p').text("Appear");
+},function(){
+	$('#hover>p').text();
+}
+
+);
 $('#getHtml>button').click(function(){
 	var htmlData = $('#getHtml').html();
 	$('#getHtml>p').text(htmlData);
