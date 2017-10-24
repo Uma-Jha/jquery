@@ -1,0 +1,17 @@
+.container{
+	width: 970px;
+	margin: 0 auto;
+	text-align:center;
+}
+img{
+	width: 200px;
+	height: 250px;
+}
+button{
+	color: white;
+	background-color: #3B9795;
+	width: 160px;
+	height: 40px;
+	border-radius: 10px;
+	margin-top: 20px;
+}
