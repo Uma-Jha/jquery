@@ -1,0 +1,31 @@
+.container{
+	width: 970px;
+	margin: 0 auto;
+	text-align:center;
+	font-family: sans-serif;
+}
+input{
+	margin-bottom: 10px;
+}
+a{
+	color: blue;
+}
+label {
+    display: inline-block;
+    width:110px;
+    text-align: right;
+    vertical-align: top;
+}
+textarea{
+	width: 168px;
+	height: 60px;
+}
+#showdata{
+	width: 22%;
+}
+.cards{
+	text-align: left;
+	padding-left: 4px;
+	margin-bottom: 6px;
+	border: 3px solid #ff6666;
+}
